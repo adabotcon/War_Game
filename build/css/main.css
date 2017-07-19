@@ -1,0 +1,55 @@
+html{
+    background-color: #006600;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    padding-bottom: 40px;
+}
+
+p {
+    font-size: 2em;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    margin 0 auto;
+}
+
+img {
+    width: 30%;
+}
+
+.app {
+    margin-top: 0;
+}
+
+.button-main {
+    font-size: 1.4em;
+}
+
+.container {
+    width: 100%;
+    margin-top: 60px;
+}   
+
+.col-12 {
+    font-size: 1.6em;
+    font-color: white;
+    padding-top: 40px;
+}
+
+.player {
+    font-size: 1.8em;
+    font-color: white;
+    margin-bottom: 20px;
+}
+
+.col-4 >div>p {
+    text-align: center;
+}
+
+
